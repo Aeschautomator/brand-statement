@@ -1,0 +1,9 @@
+Brand Statement Alex Esch
+
+Hello, 
+	My name is Alex Esch. I am a full stack web developer. I attended University of Richmond's bootcamp. 
+I am proficient in : html, css, bootstrap, javascript, jqueries, node.js, and several other coding toolsets/ languages.
+Since birth, my father was a software engineer, and knows over 7 languages. Coding has always persisted where I have lived.
+I particularly enjoy coding in html, css, javascript, and jqueries. I am seeking a full stack web development job, and would be
+excited, and open to learning new languages, and developing things outside of the web as well.
+Outside of coding, I enjoy video games, and the outdoors. I hope one day i could contribute code to developing a video game. 
